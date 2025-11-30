@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGXkzUAZdVYN5OJ5L8Dks/35mp6R2jALAVoxYEfenp80ujhQf4lPgGFSPJ0rpiyO72VLp8zkc9vxM0vpuNNB4B0THru9ORLinpA7SB2tWyqEg+8rs/IDvl+/vP2MtI5uT/jcY+SqMVAjyWM//Zy9b5CWM1c75WdxTCIcgNQpHRWaX5vSzzewoz+hXOnwCB2pM7wzooNmh/FNGt"
+	  "bkpULwUPZfQy66Tl3hkfBTWk0zTLr28gPTucHoz9EgPDND1clYeOeiWI7ve/+eDyJWrYCwL/KADs3J0acIfoXe0iMpkAZW8NaJrWC5UdEphXHr2BZbdkX8jlWcc01mOzsjYR5f4QIDAQAB" )  ; ----- DKIM key mail for metanexuz.de
